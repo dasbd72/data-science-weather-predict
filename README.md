@@ -9,6 +9,8 @@
 ```bash=
 conda install pandas matplotlib scikit-learn tqdm autopep8
 conda install -c conda-forge ipywidgets imbalanced-learn
+conda install -c conda-forge geopy
+conda install -c conda-forge py-xgboost lightgbm catboost
 ```
 
 ### tf

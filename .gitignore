@@ -2,4 +2,8 @@
 .vscode
 .ipynb_checkpoints
 
+cache
+catboost_info
+checkpoint
+
 outputs
